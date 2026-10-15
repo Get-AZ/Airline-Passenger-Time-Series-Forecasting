@@ -1,3 +1,5 @@
+![Airline Passenger Time Series Forecasting](Airline_Forecasting.png)
+
 # Airline Passenger Time Series Forecasting
 
 Reproducible monthly forecasting with **ARIMA, SARIMA, seasonal naïve baseline, rolling-origin cross-validation, and residual diagnostics**.
